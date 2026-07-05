@@ -1,0 +1,33 @@
+name: AI 工具测评博客
+description: 由 AI Media Matrix 自动化系统驱动的 AI 工具深度测评与教程
+url: "https://ferryman1980.github.io"
+baseurl: ""
+
+timezone: Asia/Shanghai
+lang: zh-CN
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: post
+      author: AI Media Matrix
+
+paginate: 10
+paginate_path: "/page:num/"
+
+exclude:
+  - "*.py"
+  - "*.json"
+  - "*.env"
