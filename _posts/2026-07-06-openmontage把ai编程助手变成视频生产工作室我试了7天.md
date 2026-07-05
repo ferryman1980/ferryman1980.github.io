@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "OpenMontage：把AI编程助手变成视频生产工作室，我试了7天"
-date: 2026-07-06 00:54:58 +0800
+date: 2026-07-06 01:22:55 +0800
 categories: [AI工具测评]
-tags: ["AI", "编程"]
+tags: ["OpenMontage 好用吗", "OpenMontage 教程", "OpenMontage 免费", "最好的 AI工具 工具", "best AI工具 tools 2025"]
 description: "# OpenMontage：把AI编程助手变成视频生产工作室，我试了7天  **30秒结论**：OpenMontage 是目前唯一开源的智能体视频生产系统，12条流水线、52个工具、500+智能体技能，能把Cursor/Claude/Copilot直接变成视频制作工具。**适合**：独立开发者、AI内容创作者、需要批量生成教程/营销视频的团队。**不适合**：追求一键出片、不想碰代码的非技术人员。"
 ---
 
