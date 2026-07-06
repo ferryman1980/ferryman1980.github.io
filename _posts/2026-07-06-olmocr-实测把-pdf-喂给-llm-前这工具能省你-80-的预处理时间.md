@@ -380,6 +380,15 @@ olmocr 目前还是早期项目（v0.1.x），roadmap 上有的功能：
 
 ---
 
+
+---
+
+## 📚 相关推荐
+
+- [daily_stock_analysis 深度测评：用 LLM 做股票分析，到底靠不靠谱？](https://ferryman1980.github.io/daily-stock-analysis-深度测评用-llm-做股票分析到底靠不靠谱/)
+- [page-agent.js 深度测评：用自然语言操控网页，这可能是2024年最好的AI工具之一](https://ferryman1980.github.io/page-agentjs-深度测评用自然语言操控网页这可能是2024年最好的ai工具之一/)
+- [Strix 测评：开源AI渗透测试工具，7.5k Stars但别急着上生产](https://ferryman1980.github.io/strix-测评开源ai渗透测试工具75k-stars但别急着上生产/)
+
 ## 💬 加入 AI 工具交流社群
 
 > **关注我，获取更多 AI 工具深度测评**
