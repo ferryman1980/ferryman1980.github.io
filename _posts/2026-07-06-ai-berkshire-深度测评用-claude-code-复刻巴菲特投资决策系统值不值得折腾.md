@@ -331,6 +331,15 @@ ai-berkshire 是一个**有思想的开源框架**，不是成熟产品。如果
 
 ---
 
+
+---
+
+## 📚 相关推荐
+
+- [craft-agents-oss 深度测评：一个值得关注的 AI Agent 编排框架，但别被 GitHub Stars 骗了](https://ferryman1980.github.io/craft-agents-oss-深度测评一个值得关注的-ai-agent-编排框架但别被-github-stars-骗了/)
+- [daily_stock_analysis 深度测评：用 LLM 做股票分析，到底靠不靠谱？](https://ferryman1980.github.io/daily-stock-analysis-深度测评用-llm-做股票分析到底靠不靠谱/)
+- [DeepSeek V3 深度测评：开源MoE模型如何用1/30成本打平GPT-4o](https://ferryman1980.github.io/deepseek-v3-深度测评开源moe模型如何用130成本打平gpt-4o/)
+
 ## 💬 加入 AI 工具交流社群
 
 > **关注我，获取更多 AI 工具深度测评**
