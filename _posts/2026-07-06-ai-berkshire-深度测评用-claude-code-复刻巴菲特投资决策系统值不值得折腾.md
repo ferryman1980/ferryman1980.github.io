@@ -320,11 +320,43 @@ def get_company_context(ticker):
 ### 一句话建议
 
 ai-berkshire 是一个**有思想的开源框架**，不是成熟产品。如果你愿意花时间调prompt、写脚本集成数据，它可以是你的投资研究副驾驶。否则，FinChat 或传统分析软件更适合你。
+---
+
+## 🔗 试用链接
+
+- **Claude Code 官方地址**: [https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+- **GitHub 仓库**: [https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+
+> 开源项目可直接克隆使用，建议在本地环境先测试再投入生产。
 
 ---
 
-## 试用链接
+## 💬 加入 AI 工具交流社群
 
-- **ai-berkshire 官网**: [https://github.com/xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+> **关注我，获取更多 AI 工具深度测评**
 
-如果你对价值投资和AI Agent的结合感兴趣，star这个项目并自己跑一遍。踩坑记录里的几个修复点我已经提了PR，希望作者能合进去。
+- 每周精选 3-5 个最新 AI 开源工具
+- 工程师视角的踩坑实录
+- 企业 AI 转型实战案例
+
+**关注公众号，回复「工具包」领取：**
+- 《50+ AI 工具导航表》（持续更新）
+- 《AI Agent 开发实战手册》
+- 《2025 AI 开源项目趋势报告》
+
+---
+
+## 🏢 企业 AI 定制服务
+
+如果你的团队正在探索 AI 落地，我们提供：
+
+- **AI 工作流自动化**：从需求分析到部署上线
+- **私有知识库搭建**：RAG + 向量数据库 + 本地模型
+- **AI Agent 开发**：定制业务场景的智能代理
+- **技术培训**：团队 AI 能力升级方案
+
+📧 联系邮箱: contact@ai-media-matrix.com
+
+---
+
+*本文包含工具推荐链接。如通过链接访问，我会获得少量支持，但不会影响你的使用体验。*
