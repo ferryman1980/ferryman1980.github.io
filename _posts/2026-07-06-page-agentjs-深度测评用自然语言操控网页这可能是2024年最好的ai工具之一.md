@@ -249,3 +249,43 @@ const agent = new PageAgent({
 ---
 
 **最后说点实话**：page-agent 算不上"最好的 AI工具"，但它解决了"用自然语言操控网页"这个具体问题，而且解决得还不错。如果你经常写爬虫脚本或者自动化测试，值得花半小时试一下。至少比手写 Playwright 选择器爽多了。
+---
+
+## 🔗 试用链接
+
+- **page-agent.js 官方地址**: [https://github.com/page-agent/page-agent.js](https://github.com/page-agent/page-agent.js)
+- **GitHub 仓库**: [https://github.com/page-agent/page-agent.js](https://github.com/page-agent/page-agent.js)
+
+> 开源项目可直接克隆使用，建议在本地环境先测试再投入生产。
+
+---
+
+## 💬 加入 AI 工具交流社群
+
+> **关注我，获取更多 AI 工具深度测评**
+
+- 每周精选 3-5 个最新 AI 开源工具
+- 工程师视角的踩坑实录
+- 企业 AI 转型实战案例
+
+**关注公众号，回复「工具包」领取：**
+- 《50+ AI 工具导航表》（持续更新）
+- 《AI Agent 开发实战手册》
+- 《2025 AI 开源项目趋势报告》
+
+---
+
+## 🏢 企业 AI 定制服务
+
+如果你的团队正在探索 AI 落地，我们提供：
+
+- **AI 工作流自动化**：从需求分析到部署上线
+- **私有知识库搭建**：RAG + 向量数据库 + 本地模型
+- **AI Agent 开发**：定制业务场景的智能代理
+- **技术培训**：团队 AI 能力升级方案
+
+📧 联系邮箱: contact@ai-media-matrix.com
+
+---
+
+*本文包含工具推荐链接。如通过链接访问，我会获得少量支持，但不会影响你的使用体验。*
