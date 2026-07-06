@@ -221,6 +221,15 @@ output:
 
 ---
 
+
+---
+
+## 📚 相关推荐
+
+- [OpenMontage：把AI编程助手变成视频生产工作室，我试了7天](https://ferryman1980.github.io/openmontage把ai编程助手变成视频生产工作室我试了7天/)
+- [ai-website-cloner-template 深度测评：一条命令克隆任意网站，但坑比想象的多](https://ferryman1980.github.io/ai-website-cloner-template-深度测评一条命令克隆任意网站但坑比想象的多/)
+- [OpenSuperWhisper 评测：macOS 上最被低估的开源语音转文字工具？](https://ferryman1980.github.io/opensuperwhisper-评测macos-上最被低估的开源语音转文字工具/)
+
 ## 💬 加入 AI 工具交流社群
 
 > **关注我，获取更多 AI 工具深度测评**
