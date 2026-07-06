@@ -330,11 +330,43 @@ def notify_slack(result, webhook_url):
 5. ❌ 非技术团队，没有能力自己部署维护
 
 **一句话总结**：hiring-agent 是个好用的"简历评分器"，但不是"招聘系统"。如果你有技术能力且预算有限，它值得花半天时间部署试试。如果你想要一个开箱即用的招聘工具，建议考虑商业产品。
+---
+
+## 🔗 试用链接
+
+- **Hiring Agent 官方地址**: [https://github.com/hiring-agent/hiring-agent](https://github.com/hiring-agent/hiring-agent)
+- **GitHub 仓库**: [https://github.com/hiring-agent/hiring-agent](https://github.com/hiring-agent/hiring-agent)
+
+> 开源项目可直接克隆使用，建议在本地环境先测试再投入生产。
 
 ---
 
-## 试用链接
+## 💬 加入 AI 工具交流社群
 
-- **hiring-agent 官网**: [https://github.com/interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)
+> **关注我，获取更多 AI 工具深度测评**
 
-如果你正在寻找 **hiring-agent 教程** 或者想体验 **hiring-agent 免费** 版本，直接去 GitHub 仓库看 README 就行。它算是目前 **最好的 AI工具 工具** 之一，尤其是在开源简历筛选这个细分领域。如果你在找 **best AI工具 tools 2025** 的推荐，这个值得关注。至于 **how to use hiring-agent**，本文的代码示例已经覆盖了90%的日常使用场景。
+- 每周精选 3-5 个最新 AI 开源工具
+- 工程师视角的踩坑实录
+- 企业 AI 转型实战案例
+
+**关注公众号，回复「工具包」领取：**
+- 《50+ AI 工具导航表》（持续更新）
+- 《AI Agent 开发实战手册》
+- 《2025 AI 开源项目趋势报告》
+
+---
+
+## 🏢 企业 AI 定制服务
+
+如果你的团队正在探索 AI 落地，我们提供：
+
+- **AI 工作流自动化**：从需求分析到部署上线
+- **私有知识库搭建**：RAG + 向量数据库 + 本地模型
+- **AI Agent 开发**：定制业务场景的智能代理
+- **技术培训**：团队 AI 能力升级方案
+
+📧 联系邮箱: contact@ai-media-matrix.com
+
+---
+
+*本文包含工具推荐链接。如通过链接访问，我会获得少量支持，但不会影响你的使用体验。*
