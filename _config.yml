@@ -7,4 +7,31 @@ timezone: Asia/Shanghai
 lang: zh-CN
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_analytics: G-PLACEHOLDER  # 替换为真实的 GA4 Tracking ID
+
+author:
+  name: AI Media Matrix
+  email: contact@ai-media-matrix.com
+
+social:
+  github: ferryman1980
+  wechat: AI工具测评  # 替换为真实公众号名称
+
+# SEO 优化
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: AI Media Matrix
