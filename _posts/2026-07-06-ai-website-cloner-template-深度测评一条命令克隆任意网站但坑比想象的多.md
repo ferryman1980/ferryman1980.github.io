@@ -302,6 +302,15 @@ npm run dev
 
 ---
 
+
+---
+
+## 📚 相关推荐
+
+- [Meetily 实测：100%本地运行的AI会议助手，但别急着卸载你的Otter](https://ferryman1980.github.io/meetily-实测100本地运行的ai会议助手但别急着卸载你的otter/)
+- [OpenMontage：把AI编程助手变成视频生产工作室，我试了7天](https://ferryman1980.github.io/openmontage把ai编程助手变成视频生产工作室我试了7天/)
+- [OpenSuperWhisper 评测：macOS 上最被低估的开源语音转文字工具？](https://ferryman1980.github.io/opensuperwhisper-评测macos-上最被低估的开源语音转文字工具/)
+
 ## 💬 加入 AI 工具交流社群
 
 > **关注我，获取更多 AI 工具深度测评**
