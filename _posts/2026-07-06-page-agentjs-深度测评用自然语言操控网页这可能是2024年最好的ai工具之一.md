@@ -260,6 +260,15 @@ const agent = new PageAgent({
 
 ---
 
+
+---
+
+## 📚 相关推荐
+
+- [craft-agents-oss 深度测评：一个值得关注的 AI Agent 编排框架，但别被 GitHub Stars 骗了](https://ferryman1980.github.io/craft-agents-oss-深度测评一个值得关注的-ai-agent-编排框架但别被-github-stars-骗了/)
+- [OmniRoute 深度测评：一个免费 AI 网关如何让 Claude Code 白嫖 GPT-4？](https://ferryman1980.github.io/omniroute-深度测评一个免费-ai-网关如何让-claude-code-白嫖-gpt-4/)
+- [Strix 测评：开源AI渗透测试工具，7.5k Stars但别急着上生产](https://ferryman1980.github.io/strix-测评开源ai渗透测试工具75k-stars但别急着上生产/)
+
 ## 💬 加入 AI 工具交流社群
 
 > **关注我，获取更多 AI 工具深度测评**
