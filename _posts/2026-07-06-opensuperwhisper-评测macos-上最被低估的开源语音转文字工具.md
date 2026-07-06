@@ -242,13 +242,43 @@ with keyboard.GlobalHotKeys({
 - 说话人识别（用 pyannote-audio）
 
 这个项目会直接威胁 MacWhisper 的生存空间。但目前，它只是一个"能用但不够优雅"的开源替代品。
+---
+
+## 🔗 试用链接
+
+- **OpenSuperWhisper 官方地址**: [https://github.com/symbolica-ai/OpenSuperWhisper](https://github.com/symbolica-ai/OpenSuperWhisper)
+- **GitHub 仓库**: [https://github.com/symbolica-ai/OpenSuperWhisper](https://github.com/symbolica-ai/OpenSuperWhisper)
+
+> 开源项目可直接克隆使用，建议在本地环境先测试再投入生产。
 
 ---
 
-## 试用链接
+## 💬 加入 AI 工具交流社群
 
-- **OpenSuperWhisper 官网**: [https://github.com/Starmel/OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)
+> **关注我，获取更多 AI 工具深度测评**
 
-如果你在找 2025 年 best AI tools，这个工具值得放进你的工具箱。虽然 OpenSuperWhisper 评测 显示它还有不少坑，但作为免费方案，它已经比 macOS 原生听写更可控了。如果你还在犹豫 OpenSuperWhisper 好用吗，我的建议是：花 30 分钟配置一下，如果不满意再删掉也不亏。
+- 每周精选 3-5 个最新 AI 开源工具
+- 工程师视角的踩坑实录
+- 企业 AI 转型实战案例
 
-**how to use OpenSuperWhisper** 的关键就三步：装依赖、改配置、按快捷键。如果你需要更详细的 OpenSuperWhisper 中文教程，可以翻翻 GitHub 的 issue 区，虽然文档少，但社区里已经踩过的坑都写在 issue 里了。
+**关注公众号，回复「工具包」领取：**
+- 《50+ AI 工具导航表》（持续更新）
+- 《AI Agent 开发实战手册》
+- 《2025 AI 开源项目趋势报告》
+
+---
+
+## 🏢 企业 AI 定制服务
+
+如果你的团队正在探索 AI 落地，我们提供：
+
+- **AI 工作流自动化**：从需求分析到部署上线
+- **私有知识库搭建**：RAG + 向量数据库 + 本地模型
+- **AI Agent 开发**：定制业务场景的智能代理
+- **技术培训**：团队 AI 能力升级方案
+
+📧 联系邮箱: contact@ai-media-matrix.com
+
+---
+
+*本文包含工具推荐链接。如通过链接访问，我会获得少量支持，但不会影响你的使用体验。*
