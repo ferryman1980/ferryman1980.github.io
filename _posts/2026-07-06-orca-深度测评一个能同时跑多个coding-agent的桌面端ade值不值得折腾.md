@@ -190,9 +190,43 @@ orca run --config orca.yaml --log-dir ./logs
 - ❌ 新手入门（文档太少）
 
 **一句话总结**：orca是一个有想法的项目，但还太年轻。如果你愿意折腾，它能帮你体验“并行Agent”的概念；如果你要干活，还是等它成熟或者用CrewAI吧。
+---
+
+## 🔗 试用链接
+
+- **Orca 官方地址**: [https://github.com/orca-ai/orca](https://github.com/orca-ai/orca)
+- **GitHub 仓库**: [https://github.com/orca-ai/orca](https://github.com/orca-ai/orca)
+
+> 开源项目可直接克隆使用，建议在本地环境先测试再投入生产。
 
 ---
 
-## 试用链接
+## 💬 加入 AI 工具交流社群
 
-- **orca 官网**: [https://github.com/stablyai/orca](https://github.com/stablyai/orca)
+> **关注我，获取更多 AI 工具深度测评**
+
+- 每周精选 3-5 个最新 AI 开源工具
+- 工程师视角的踩坑实录
+- 企业 AI 转型实战案例
+
+**关注公众号，回复「工具包」领取：**
+- 《50+ AI 工具导航表》（持续更新）
+- 《AI Agent 开发实战手册》
+- 《2025 AI 开源项目趋势报告》
+
+---
+
+## 🏢 企业 AI 定制服务
+
+如果你的团队正在探索 AI 落地，我们提供：
+
+- **AI 工作流自动化**：从需求分析到部署上线
+- **私有知识库搭建**：RAG + 向量数据库 + 本地模型
+- **AI Agent 开发**：定制业务场景的智能代理
+- **技术培训**：团队 AI 能力升级方案
+
+📧 联系邮箱: contact@ai-media-matrix.com
+
+---
+
+*本文包含工具推荐链接。如通过链接访问，我会获得少量支持，但不会影响你的使用体验。*
