@@ -341,6 +341,15 @@ def notify_slack(result, webhook_url):
 
 ---
 
+
+---
+
+## 📚 相关推荐
+
+- [cognee 测评：给AI Agent装上持久记忆的图数据库引擎](https://ferryman1980.github.io/cognee-测评给ai-agent装上持久记忆的图数据库引擎/)
+- [craft-agents-oss 深度测评：一个值得关注的 AI Agent 编排框架，但别被 GitHub Stars 骗了](https://ferryman1980.github.io/craft-agents-oss-深度测评一个值得关注的-ai-agent-编排框架但别被-github-stars-骗了/)
+- [OmniRoute 深度测评：一个免费 AI 网关如何让 Claude Code 白嫖 GPT-4？](https://ferryman1980.github.io/omniroute-深度测评一个免费-ai-网关如何让-claude-code-白嫖-gpt-4/)
+
 ## 💬 加入 AI 工具交流社群
 
 > **关注我，获取更多 AI 工具深度测评**
