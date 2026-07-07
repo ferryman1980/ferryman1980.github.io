@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Media Matrix - 流量统计</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; color: #c9d1d9; padding: 40px 20px; }
+.container { max-width: 1200px; margin: 0 auto; }
+h1 { color: #58a6ff; margin-bottom: 10px; font-size: 28px; }
+.subtitle { color: #8b949e; margin-bottom: 40px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; }
+.card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 24px; }
+.card h2 { color: #58a6ff; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+.card .number { font-size: 48px; font-weight: 700; color: #fff; }
+.card .label { color: #8b949e; font-size: 14px; margin-top: 4px; }
+.table-container { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 24px; margin-bottom: 20px; overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 12px; color: #8b949e; font-size: 12px; text-transform: uppercase; border-bottom: 1px solid #30363d; }
+td { padding: 12px; border-bottom: 1px solid #21262d; }
+tr:hover { background: #1c2128; }
+.bar { height: 8px; background: #238636; border-radius: 4px; min-width: 2px; }
+.footer { text-align: center; color: #8b949e; margin-top: 40px; font-size: 12px; }
+.updated { color: #3fb950; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>AI Media Matrix</h1>
+<p class="subtitle">GitHub Pages 流量统计面板 | 零注册替代方案</p>
+
+<div class="grid">
+<div class="card">
+<h2>页面浏览</h2>
+<div class="number">4</div>
+<div class="label">过去14天总浏览量</div>
+</div>
+<div class="card">
+<h2>独立访客</h2>
+<div class="number">4</div>
+<div class="label">过去14天独立访客</div>
+</div>
+<div class="card">
+<h2>仓库克隆</h2>
+<div class="number">266</div>
+<div class="label">过去14天总克隆数</div>
+</div>
+<div class="card">
+<h2>独立克隆者</h2>
+<div class="number">102</div>
+<div class="label">过去14天独立克隆者</div>
+</div>
+</div>
+
+<div class="table-container">
+<h2 style="color:#58a6ff;margin-bottom:16px;font-size:16px;">每日浏览趋势</h2>
+<table>
+<tr><th>日期</th><th>浏览量</th><th>独立访客</th><th>趋势</th></tr>
+<tr><td>2026-06-23</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-06-24</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-06-25</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-06-26</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-06-27</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-06-28</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-06-29</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-06-30</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-07-01</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-07-02</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-07-03</td><td>0</td><td>0</td><td><div class="bar" style="width:0.0%"></div></td></tr>
+<tr><td>2026-07-04</td><td>1</td><td>1</td><td><div class="bar" style="width:50.0%"></div></td></tr>
+<tr><td>2026-07-05</td><td>2</td><td>2</td><td><div class="bar" style="width:100.0%"></div></td></tr>
+<tr><td>2026-07-06</td><td>1</td><td>1</td><td><div class="bar" style="width:50.0%"></div></td></tr>
+</table>
+</div>
+
+<div class="table-container">
+<h2 style="color:#58a6ff;margin-bottom:16px;font-size:16px;">访问来源</h2>
+<table>
+<tr><th>来源</th><th>浏览量</th><th>独立访客</th></tr>
+<tr><td>github.com</td><td>3</td><td>3</td></tr>
+</table>
+</div>
+
+<div class="table-container">
+<h2 style="color:#58a6ff;margin-bottom:16px;font-size:16px;">热门页面</h2>
+<table>
+<tr><th>路径</th><th>浏览量</th><th>独立访客</th></tr>
+<tr><td>/ferryman1980/ferryman1980.github.io</td><td>3</td><td>3</td></tr>
+<tr><td>/ferryman1980/ferryman1980.github.io/actions/runs/28748119626</td><td>1</td><td>1</td></tr>
+</table>
+</div>
+
+<div class="footer">
+<p>数据来自 GitHub Traffic API | 有24小时延迟</p>
+<p class="updated">最后更新: 2026-07-07 21:10</p>
+<p><a href="https://ferryman1980.github.io/" style="color:#58a6ff;text-decoration:none;">← 返回博客</a></p>
+</div>
+</div>
+</body>
+</html>
