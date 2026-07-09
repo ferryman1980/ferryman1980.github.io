@@ -325,7 +325,7 @@ module.exports = {
 
 ## 试用链接
 
-- **daisyUI 官网**: [https://github.com/saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+- **daisyUI 官网**: [https://ferryman1980.github.io/r/fe3d9a.html](https://ferryman1980.github.io/r/fe3d9a.html)
 
 ---
 
