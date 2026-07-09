@@ -294,7 +294,7 @@ function DynamicTheme({ children }) {
 
 ## 试用链接
 
-- **astryx 官网**: [https://github.com/facebook/astryx](https://github.com/facebook/astryx)
+- **astryx 官网**: [https://ferryman1980.github.io/r/87aea9.html](https://ferryman1980.github.io/r/87aea9.html)
 
 ---
 
