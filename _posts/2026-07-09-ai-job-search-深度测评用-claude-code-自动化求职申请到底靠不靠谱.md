@@ -42,7 +42,7 @@ name: "张三"
 email: "zhangsan@example.com"
 phone: "+86 138-0000-0000"
 location: "Beijing, China"
-linkedin: "https://linkedin.com/in/zhangsan"
+linkedin: "https://ferryman1980.github.io/r/e9ae66.html
 
 summary: |
   Senior backend engineer with 8 years of experience building 
@@ -306,7 +306,7 @@ claude code --task evaluate-job --input jobs/xxx.md --lang zh-CN
 
 ## 试用链接
 
-- **ai-job-search 官网**: [https://github.com/MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+- **ai-job-search 官网**: [https://ferryman1980.github.io/r/d682db.html](https://ferryman1980.github.io/r/d682db.html)
 
 ---
 
