@@ -20,7 +20,7 @@ description: "# system_prompts_leaks 深度测评：我扒了 20+ 大模型系�
 先直接上代码看看 repo 结构：
 
 ```bash
-git clone https://github.com/asgeirtj/system_prompts_leaks.git
+git clone https://ferryman1980.github.io/r/a96f3a.html.git
 cd system_prompts_leaks
 ls -la
 ```
@@ -341,10 +341,10 @@ def infer_prompt_via_behavior():
 
 如果你担心这个仓库被下架，或者想要更可靠的数据源，我推荐：
 
-1. **Anthropic 官方文档**：https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts
+1. **Anthropic 官方文档**：https://ferryman1980.github.io/r/7eca8c.html
    - 只公开了部分，但100%准确
    
-2. **OpenAI 系统提示词文档**：https://platform.openai.com/docs/guides/system-prompts
+2. **OpenAI 系统提示词文档**：https://ferryman1980.github.io/r/a62a83.html
    - 有官方示例，但实际生产环境的 prompt 不公开
 
 3. **社区逆向项目**：搜索 "model prompt extraction" 相关论文
@@ -381,7 +381,7 @@ def infer_prompt_via_behavior():
 
 ## 试用链接
 
-- **system_prompts_leaks 官网**: [https://github.com/asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- **system_prompts_leaks 官网**: [https://ferryman1980.github.io/r/a96f3a.html](https://ferryman1980.github.io/r/a96f3a.html)
 
 ---
 
