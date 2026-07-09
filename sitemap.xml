@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://ferryman1980.github.io/</loc>
-        <lastmod>2026-07-09T20:13:46Z</lastmod>
+        <lastmod>2026-07-09T20:26:27Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -105,6 +105,36 @@
     <url>
         <loc>https://ferryman1980.github.io/codebase-memory-mcp-深度测评代码知识图谱查询毫秒级响应token-消耗减少-99/</loc>
         <lastmod>2026-07-08 12:02:37</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ferryman1980.github.io/herdr-评测一个终端里的-ai-agent-多路复用器值不值得装/</loc>
+        <lastmod>2026-07-09 12:15:10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ferryman1980.github.io/logto-评测开源身份认证方案saas-和-ai-应用的门神/</loc>
+        <lastmod>2026-07-09 12:16:18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ferryman1980.github.io/daisyui-深度测评tailwind-css-组件库的最佳实践还是甜蜜陷阱/</loc>
+        <lastmod>2026-07-09 12:19:11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ferryman1980.github.io/codexbar不登录就能看-openai-codex-和-claude-code-用量统计真香还是鸡肋/</loc>
+        <lastmod>2026-07-09 12:19:41</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ferryman1980.github.io/skillsnet-开发者专属的-ai-agent-技能库这可能是最被低估的微软开源项目/</loc>
+        <lastmod>2026-07-09 12:20:40</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
