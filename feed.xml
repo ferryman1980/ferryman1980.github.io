@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>AI工具深度测评</title>
+        <link>https://ferryman1980.github.io/</link>
+        <description>最新AI工具深度测评、使用教程和实战案例</description>
+        <language>zh-CN</language>
+        <lastBuildDate>2026-07-09T20:13:46Z</lastBuildDate>
+    <item>
+        <title>codebase-memory-mcp 深度测评：代码知识图谱查询，毫秒级响应，token 消耗减少 99%</title>
+        <link>https://ferryman1980.github.io/codebase-memory-mcp-深度测评代码知识图谱查询毫秒级响应token-消耗减少-99/</link>
+        <guid>https://ferryman1980.github.io/codebase-memory-mcp-深度测评代码知识图谱查询毫秒级响应token-消耗减少-99/</guid>
+        <description># codebase-memory-mcp 深度测评：代码知识图谱查询，毫秒级响应，token 消耗减少 99%
+
+## 30 秒结论
+
+**codebase-memory-mcp** 是一个高性能的代码智能 MCP 服务器，它能把整个代码仓库索引成持久化的知识图谱，平均仓库索引时间在毫秒级。核心优势：支持 158 种编程语言、子毫秒级查询、token 消耗减少 99%。**单静态二进制文件，零依...</description>
+        <pubDate>Wed, 08 Jul 2026 12:02:37 +0800</pubDate>
+    </item>
+    <item>
+        <title>agency-agents 深度测评：一个 GitHub 10k+ stars 的多智能体框架，到底值不值得用？</title>
+        <link>https://ferryman1980.github.io/agency-agents-深度测评一个-github-10k-stars-的多智能体框架到底值不值得用/</link>
+        <guid>https://ferryman1980.github.io/agency-agents-深度测评一个-github-10k-stars-的多智能体框架到底值不值得用/</guid>
+        <description># agency-agents 深度测评：一个 GitHub 10k+ stars 的多智能体框架，到底值不值得用？
+
+**30秒结论**：agency-agents 是一个基于 Python 的多智能体协作框架，让你用几行代码就能组建一个“AI 代理团队”——每个 agent 有独立角色、工具和记忆。适合想快速搭建多 agent 系统的开发者，但坑也不少。如果你需要的是 LangChain 那种...</description>
+        <pubDate>Wed, 08 Jul 2026 12:01:52 +0800</pubDate>
+    </item>
+    <item>
+        <title>video-use 深度测评：用代码操控视频的“黑魔法”，到底靠不靠谱？</title>
+        <link>https://ferryman1980.github.io/video-use-深度测评用代码操控视频的黑魔法到底靠不靠谱/</link>
+        <guid>https://ferryman1980.github.io/video-use-深度测评用代码操控视频的黑魔法到底靠不靠谱/</guid>
+        <description># video-use 深度测评：用代码操控视频的“黑魔法”，到底靠不靠谱？
+
+**30秒结论**：video-use 是一个让 AI 编程 agent（如 Claude、GPT-4）直接操作视频编辑软件的开源工具。**值不值得用？** 如果你是个喜欢用代码写脚本、批量处理视频的开发者，这玩意儿是神器；如果你只想点几下鼠标就剪完视频，那它不适合你。**适合谁？** 独立开发者、视频批量处理场景、A...</description>
+        <pubDate>Wed, 08 Jul 2026 12:01:10 +0800</pubDate>
+    </item>
+    <item>
+        <title>OpenSuperWhisper 评测：macOS 上最被低估的开源语音转文字工具？</title>
+        <link>https://ferryman1980.github.io/opensuperwhisper-评测macos-上最被低估的开源语音转文字工具/</link>
+        <guid>https://ferryman1980.github.io/opensuperwhisper-评测macos-上最被低估的开源语音转文字工具/</guid>
+        <description># OpenSuperWhisper 评测：macOS 上最被低估的开源语音转文字工具？
+
+**30秒结论**：OpenSuperWhisper 是一个基于 OpenAI Whisper 模型的 macOS 原生听写（dictation）应用。如果你受够了 macOS 自带听写的间歇性抽风，或者不想每月交钱给 Otter.ai，这个免费开源项目值得一试。**但别期待开箱即用**——你需要自己配置模...</description>
+        <pubDate>Sun, 05 Jul 2026 17:22:25 +0800</pubDate>
+    </item>
+    <item>
+        <title>orca 深度测评：一个能同时跑多个Coding Agent的桌面端ADE，值不值得折腾？</title>
+        <link>https://ferryman1980.github.io/orca-深度测评一个能同时跑多个coding-agent的桌面端ade值不值得折腾/</link>
+        <guid>https://ferryman1980.github.io/orca-深度测评一个能同时跑多个coding-agent的桌面端ade值不值得折腾/</guid>
+        <description># orca 深度测评：一个能同时跑多个Coding Agent的桌面端ADE，值不值得折腾？
+
+**30秒结论**：orca是一个开源的Agent开发环境（ADE），核心卖点是“并行运行多个coding agent”——你可以在桌面端和手机端同时跑多个AI代理，每个代理用自己的API Key。适合需要同时调试多个代码库、做并行代码审查的开发者。**不适合**：如果你只是单个Agent偶尔用用，C...</description>
+        <pubDate>Sun, 05 Jul 2026 17:21:13 +0800</pubDate>
+    </item>
+    <item>
+        <title>ai-website-cloner-template 深度测评：一条命令克隆任意网站，但坑比想象的多</title>
+        <link>https://ferryman1980.github.io/ai-website-cloner-template-深度测评一条命令克隆任意网站但坑比想象的多/</link>
+        <guid>https://ferryman1980.github.io/ai-website-cloner-template-深度测评一条命令克隆任意网站但坑比想象的多/</guid>
+        <description># ai-website-cloner-template 深度测评：一条命令克隆任意网站，但坑比想象的多
+
+**30秒结论**：ai-website-cloner-template 是一个基于 AI coding agent 的网站克隆工具，输入目标URL就能生成功能相似的克隆版。开源免费，GitHub 4205 stars，适合快速原型验证和竞品分析。但别指望完美复制——动态交互、登录态、API...</description>
+        <pubDate>Sun, 05 Jul 2026 17:20:03 +0800</pubDate>
+    </item>
+    <item>
+        <title>Meetily 实测：100%本地运行的AI会议助手，但别急着卸载你的Otter</title>
+        <link>https://ferryman1980.github.io/meetily-实测100本地运行的ai会议助手但别急着卸载你的otter/</link>
+        <guid>https://ferryman1980.github.io/meetily-实测100本地运行的ai会议助手但别急着卸载你的otter/</guid>
+        <description># Meetily 实测：100%本地运行的AI会议助手，但别急着卸载你的Otter
+
+**30秒结论**：Meetily是一个基于Rust构建、完全本地运行的AI会议转录+总结工具。支持实时转录（比Whisper快4倍）、说话人识别、Ollama本地模型总结。**值不值得用**：如果你对数据隐私有偏执需求，或者公司不允许用云端会议工具，值得一试。**不适合谁**：对英文会议准确率要求高的用户（中...</description>
+        <pubDate>Sun, 05 Jul 2026 17:18:17 +0800</pubDate>
+    </item>
+    <item>
+        <title>OpenMontage：把AI编程助手变成视频生产工作室，我试了7天</title>
+        <link>https://ferryman1980.github.io/openmontage把ai编程助手变成视频生产工作室我试了7天/</link>
+        <guid>https://ferryman1980.github.io/openmontage把ai编程助手变成视频生产工作室我试了7天/</guid>
+        <description># OpenMontage：把AI编程助手变成视频生产工作室，我试了7天
+
+**30秒结论**：OpenMontage 是目前唯一开源的智能体视频生产系统，12条流水线、52个工具、500+智能体技能，能把Cursor/Claude/Copilot直接变成视频制作工具。**适合**：独立开发者、AI内容创作者、需要批量生成教程/营销视频的团队。**不适合**：追求一键出片、不想碰代码的非技术人员。...</description>
+        <pubDate>Sat, 04 Jul 2026 14:53:52 +0800</pubDate>
+    </item>
+    <item>
+        <title>olmocr 实测：把 PDF 喂给 LLM 前，这工具能省你 80% 的预处理时间</title>
+        <link>https://ferryman1980.github.io/olmocr-实测把-pdf-喂给-llm-前这工具能省你-80-的预处理时间/</link>
+        <guid>https://ferryman1980.github.io/olmocr-实测把-pdf-喂给-llm-前这工具能省你-80-的预处理时间/</guid>
+        <description># olmocr 实测：把 PDF 喂给 LLM 前，这工具能省你 80% 的预处理时间
+
+**30秒结论**：olmocr 是 Allen AI 开源的 PDF 线性化工具，专门解决"PDF 转纯文本后 LLM 读不懂"的问题。如果你正在做 RAG、文档问答、或者用 PDF 微调模型，这工具值得一试。目前 1216 stars，Apache 2.0 协议，免费。缺点是文档偏学术，中文支持有坑。
+...</description>
+        <pubDate>Sat, 04 Jul 2026 14:52:54 +0800</pubDate>
+    </item>
+    <item>
+        <title>hiring-agent 测评：一个能帮你筛简历的AI Agent，但别指望它能取代HR</title>
+        <link>https://ferryman1980.github.io/hiring-agent-测评一个能帮你筛简历的ai-agent但别指望它能取代hr/</link>
+        <guid>https://ferryman1980.github.io/hiring-agent-测评一个能帮你筛简历的ai-agent但别指望它能取代hr/</guid>
+        <description># hiring-agent 测评：一个能帮你筛简历的AI Agent，但别指望它能取代HR
+
+**30秒结论**：hiring-agent 是一个开源简历评分AI Agent，基于LLM对简历进行结构化评估。**值得一试**，尤其是中小团队在招聘量不大（每周&amp;lt;50份）时，能节省大量初筛时间。但别指望它能直接帮你招到人——它只是个评分工具，不是ATS系统。**免费**（开源），适合有技术能力的团队...</description>
+        <pubDate>Sat, 04 Jul 2026 14:51:58 +0800</pubDate>
+    </item>
+    <item>
+        <title>cognee 测评：给AI Agent装上持久记忆的图数据库引擎</title>
+        <link>https://ferryman1980.github.io/cognee-测评给ai-agent装上持久记忆的图数据库引擎/</link>
+        <guid>https://ferryman1980.github.io/cognee-测评给ai-agent装上持久记忆的图数据库引擎/</guid>
+        <description># cognee 测评：给AI Agent装上持久记忆的图数据库引擎
+
+**30秒结论**：cognee 是一个开源的知识图谱引擎，专门解决AI Agent的跨会话持久记忆问题。如果你正在构建需要长期记忆的AI应用（比如个人助手、客服机器人、知识管理系统），**值得一试**。它用图数据库存储实体关系，比向量数据库的语义搜索更接近人类记忆的关联方式。但要警惕：项目还处于早期阶段（v0.1.x），AP...</description>
+        <pubDate>Sat, 04 Jul 2026 14:50:59 +0800</pubDate>
+    </item>
+    <item>
+        <title>daily_stock_analysis 深度测评：用 LLM 做股票分析，到底靠不靠谱？</title>
+        <link>https://ferryman1980.github.io/daily-stock-analysis-深度测评用-llm-做股票分析到底靠不靠谱/</link>
+        <guid>https://ferryman1980.github.io/daily-stock-analysis-深度测评用-llm-做股票分析到底靠不靠谱/</guid>
+        <description># daily_stock_analysis 深度测评：用 LLM 做股票分析，到底靠不靠谱？
+
+**30秒结论**：daily_stock_analysis 是一个基于 LLM 的多市场股票智能分析系统，支持 A股、港股、美股行情获取、实时新闻抓取、AI 决策分析和自动推送。**如果你会写一点 Python 且想用 AI 辅助股票分析，这工具值得一试**。但它不是交易信号生成器，更接近“每天帮你...</description>
+        <pubDate>Sat, 04 Jul 2026 13:53:38 +0800</pubDate>
+    </item>
+    <item>
+        <title>craft-agents-oss 深度测评：一个值得关注的 AI Agent 编排框架，但别被 GitHub Stars 骗了</title>
+        <link>https://ferryman1980.github.io/craft-agents-oss-深度测评一个值得关注的-ai-agent-编排框架但别被-github-stars-骗了/</link>
+        <guid>https://ferryman1980.github.io/craft-agents-oss-深度测评一个值得关注的-ai-agent-编排框架但别被-github-stars-骗了/</guid>
+        <description># craft-agents-oss 深度测评：一个值得关注的 AI Agent 编排框架，但别被 GitHub Stars 骗了
+
+**30秒结论**：craft-agents-oss 是一个基于 Python 的轻量级 AI Agent 编排框架，主打“声明式”多 Agent 协作。目前 354 stars，代码质量中上，但文档残缺、API 不稳定、社区几乎为零。**适合**：喜欢折腾源码的 ...</description>
+        <pubDate>Sat, 04 Jul 2026 13:52:48 +0800</pubDate>
+    </item>
+    <item>
+        <title>page-agent.js 深度测评：用自然语言操控网页，这可能是2024年最好的AI工具之一</title>
+        <link>https://ferryman1980.github.io/page-agentjs-深度测评用自然语言操控网页这可能是2024年最好的ai工具之一/</link>
+        <guid>https://ferryman1980.github.io/page-agentjs-深度测评用自然语言操控网页这可能是2024年最好的ai工具之一/</guid>
+        <description># page-agent.js 深度测评：用自然语言操控网页，这可能是2024年最好的AI工具之一
+
+**30秒结论**：page-agent.js 是一个运行在浏览器中的 JavaScript GUI Agent，能通过自然语言指令直接操控网页元素。**值得一试**，尤其是自动化测试、RPA、辅助脚本开发场景。开源免费，阿里出品，1900+ Stars。**不适合**生产环境直接使用（API不稳...</description>
+        <pubDate>Sat, 04 Jul 2026 13:52:01 +0800</pubDate>
+    </item>
+    <item>
+        <title>OmniRoute 深度测评：一个免费 AI 网关如何让 Claude Code 白嫖 GPT-4？</title>
+        <link>https://ferryman1980.github.io/omniroute-深度测评一个免费-ai-网关如何让-claude-code-白嫖-gpt-4/</link>
+        <guid>https://ferryman1980.github.io/omniroute-深度测评一个免费-ai-网关如何让-claude-code-白嫖-gpt-4/</guid>
+        <description># OmniRoute 深度测评：一个免费 AI 网关如何让 Claude Code 白嫖 GPT-4？
+
+**30秒结论**：OmniRoute 是一个开源 AI 网关，核心卖点是"一个端点接入 231+ 提供商，其中 50+ 免费"。如果你正在用 Claude Code、Cursor、Cline 或 Copilot 想白嫖免费 Claude/GPT/Gemini 模型，这可能是目前最省事的方案...</description>
+        <pubDate>Sat, 04 Jul 2026 11:53:16 +0800</pubDate>
+    </item>
+    <item>
+        <title>ai-berkshire 深度测评：用 Claude Code 复刻巴菲特投资决策系统，值不值得折腾？</title>
+        <link>https://ferryman1980.github.io/ai-berkshire-深度测评用-claude-code-复刻巴菲特投资决策系统值不值得折腾/</link>
+        <guid>https://ferryman1980.github.io/ai-berkshire-深度测评用-claude-code-复刻巴菲特投资决策系统值不值得折腾/</guid>
+        <description># ai-berkshire 深度测评：用 Claude Code 复刻巴菲特投资决策系统，值不值得折腾？
+
+**30秒结论**：ai-berkshire 是一个开源的价值投资研究框架，利用 Claude Code / Codex 的多Agent能力，模拟巴菲特、芒格、段永平、李录四位大师的投资方法论做并行分析。适合有编程基础的价值投资者、量化研究员。**不是银弹**——它不能替你赚钱，但能系统化...</description>
+        <pubDate>Sat, 04 Jul 2026 11:52:25 +0800</pubDate>
+    </item>
+    <item>
+        <title>Strix 测评：开源AI渗透测试工具，7.5k Stars但别急着上生产</title>
+        <link>https://ferryman1980.github.io/strix-测评开源ai渗透测试工具75k-stars但别急着上生产/</link>
+        <guid>https://ferryman1980.github.io/strix-测评开源ai渗透测试工具75k-stars但别急着上生产/</guid>
+        <description># Strix 测评：开源AI渗透测试工具，7.5k Stars但别急着上生产
+
+**30秒结论**：Strix 是一个用AI驱动、面向Web应用的自动化渗透测试工具，开源免费、GitHub 7.5k Stars。**值不值得用？** 如果你在找一款能快速扫描常见漏洞（XSS、SQLi、SSRF等）、自动生成PoC并给出修复建议的工具，Strix值得一试。但它不是Burp Suite或Nessus...</description>
+        <pubDate>Sat, 04 Jul 2026 11:51:29 +0800</pubDate>
+    </item>
+    </channel>
+</rss>
