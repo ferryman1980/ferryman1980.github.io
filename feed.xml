@@ -5,7 +5,56 @@
         <link>https://ferryman1980.github.io/</link>
         <description>最新AI工具深度测评、使用教程和实战案例</description>
         <language>zh-CN</language>
-        <lastBuildDate>2026-07-09T20:13:46Z</lastBuildDate>
+        <lastBuildDate>2026-07-09T20:26:27Z</lastBuildDate>
+    <item>
+        <title>skills：.NET 开发者专属的 AI Agent 技能库，这可能是最被低估的微软开源项目</title>
+        <link>https://ferryman1980.github.io/skillsnet-开发者专属的-ai-agent-技能库这可能是最被低估的微软开源项目/</link>
+        <guid>https://ferryman1980.github.io/skillsnet-开发者专属的-ai-agent-技能库这可能是最被低估的微软开源项目/</guid>
+        <description># skills：.NET 开发者专属的 AI Agent 技能库，这可能是最被低估的微软开源项目
+
+**30秒结论**：skills 是微软 .NET 团队推出的一个开源仓库，专门为 AI coding agents（如 GitHub Copilot、Cursor、Codeium 等）提供 .NET/C# 相关的上下文知识。**如果你是个 .NET 开发者，并且正在尝试让 AI 帮你写 C# 代...</description>
+        <pubDate>Thu, 09 Jul 2026 12:20:40 +0800</pubDate>
+    </item>
+    <item>
+        <title>CodexBar：不登录就能看 OpenAI Codex 和 Claude Code 用量统计，真香还是鸡肋？</title>
+        <link>https://ferryman1980.github.io/codexbar不登录就能看-openai-codex-和-claude-code-用量统计真香还是鸡肋/</link>
+        <guid>https://ferryman1980.github.io/codexbar不登录就能看-openai-codex-和-claude-code-用量统计真香还是鸡肋/</guid>
+        <description># CodexBar：不登录就能看 OpenAI Codex 和 Claude Code 用量统计，真香还是鸡肋？
+
+**30秒结论**：CodexBar 是一个 macOS 菜单栏工具，让你**不需要登录网页**就能实时查看 OpenAI Codex 和 Claude Code 的 API 用量统计。如果你是重度 API 用户（月消耗 $50+），这玩意能省掉每天打开网页看 dashboard ...</description>
+        <pubDate>Thu, 09 Jul 2026 12:19:41 +0800</pubDate>
+    </item>
+    <item>
+        <title>daisyUI 深度测评：Tailwind CSS 组件库的“最佳实践”还是“甜蜜陷阱”？</title>
+        <link>https://ferryman1980.github.io/daisyui-深度测评tailwind-css-组件库的最佳实践还是甜蜜陷阱/</link>
+        <guid>https://ferryman1980.github.io/daisyui-深度测评tailwind-css-组件库的最佳实践还是甜蜜陷阱/</guid>
+        <description># daisyUI 深度测评：Tailwind CSS 组件库的“最佳实践”还是“甜蜜陷阱”？
+
+## 30秒结论
+
+**daisyUI 是 Tailwind CSS 生态里最流行的免费开源组件库，没有之一。** 它直接把 Tailwind 的原子化 CSS 封装成“按钮”、“卡片”、“导航栏”这种语义化组件，让你不用手写一堆 `flex items-center justify-between`...</description>
+        <pubDate>Thu, 09 Jul 2026 12:19:11 +0800</pubDate>
+    </item>
+    <item>
+        <title>Logto 评测：开源身份认证方案，SaaS 和 AI 应用的“门神”</title>
+        <link>https://ferryman1980.github.io/logto-评测开源身份认证方案saas-和-ai-应用的门神/</link>
+        <guid>https://ferryman1980.github.io/logto-评测开源身份认证方案saas-和-ai-应用的门神/</guid>
+        <description># Logto 评测：开源身份认证方案，SaaS 和 AI 应用的“门神”
+
+## 30 秒结论
+
+**Logto 是一个开源的身份认证和授权基础设施**，基于 OIDC 和 OAuth 2.1 标准，内置多租户、SSO 和 RBAC 功能。如果让我给一个直接的评价：**对于需要自建认证系统的中小型团队和独立开发者，Logto 是目前开源方案里最接近“开箱即用”的**，但它在企业级功能和文档完善度...</description>
+        <pubDate>Thu, 09 Jul 2026 12:16:18 +0800</pubDate>
+    </item>
+    <item>
+        <title>herdr 评测：一个终端里的 AI Agent 多路复用器，值不值得装？</title>
+        <link>https://ferryman1980.github.io/herdr-评测一个终端里的-ai-agent-多路复用器值不值得装/</link>
+        <guid>https://ferryman1980.github.io/herdr-评测一个终端里的-ai-agent-多路复用器值不值得装/</guid>
+        <description># herdr 评测：一个终端里的 AI Agent 多路复用器，值不值得装？
+
+**30秒结论**：herdr 是一个运行在终端里的 AI agent 多路复用器，让你同时调用多个 LLM（如 OpenAI、Claude、本地模型）并对比结果。**值得关注，但别抱太高期望**。它目前还是早期项目（GitHub 3024 stars），功能简单但理念不错——适合需要同时对比多个模型输出的开发者。如...</description>
+        <pubDate>Thu, 09 Jul 2026 12:15:10 +0800</pubDate>
+    </item>
     <item>
         <title>codebase-memory-mcp 深度测评：代码知识图谱查询，毫秒级响应，token 消耗减少 99%</title>
         <link>https://ferryman1980.github.io/codebase-memory-mcp-深度测评代码知识图谱查询毫秒级响应token-消耗减少-99/</link>
@@ -143,24 +192,6 @@
 
 **30秒结论**：OmniRoute 是一个开源 AI 网关，核心卖点是"一个端点接入 231+ 提供商，其中 50+ 免费"。如果你正在用 Claude Code、Cursor、Cline 或 Copilot 想白嫖免费 Claude/GPT/Gemini 模型，这可能是目前最省事的方案...</description>
         <pubDate>Sat, 04 Jul 2026 11:53:16 +0800</pubDate>
-    </item>
-    <item>
-        <title>ai-berkshire 深度测评：用 Claude Code 复刻巴菲特投资决策系统，值不值得折腾？</title>
-        <link>https://ferryman1980.github.io/ai-berkshire-深度测评用-claude-code-复刻巴菲特投资决策系统值不值得折腾/</link>
-        <guid>https://ferryman1980.github.io/ai-berkshire-深度测评用-claude-code-复刻巴菲特投资决策系统值不值得折腾/</guid>
-        <description># ai-berkshire 深度测评：用 Claude Code 复刻巴菲特投资决策系统，值不值得折腾？
-
-**30秒结论**：ai-berkshire 是一个开源的价值投资研究框架，利用 Claude Code / Codex 的多Agent能力，模拟巴菲特、芒格、段永平、李录四位大师的投资方法论做并行分析。适合有编程基础的价值投资者、量化研究员。**不是银弹**——它不能替你赚钱，但能系统化...</description>
-        <pubDate>Sat, 04 Jul 2026 11:52:25 +0800</pubDate>
-    </item>
-    <item>
-        <title>Strix 测评：开源AI渗透测试工具，7.5k Stars但别急着上生产</title>
-        <link>https://ferryman1980.github.io/strix-测评开源ai渗透测试工具75k-stars但别急着上生产/</link>
-        <guid>https://ferryman1980.github.io/strix-测评开源ai渗透测试工具75k-stars但别急着上生产/</guid>
-        <description># Strix 测评：开源AI渗透测试工具，7.5k Stars但别急着上生产
-
-**30秒结论**：Strix 是一个用AI驱动、面向Web应用的自动化渗透测试工具，开源免费、GitHub 7.5k Stars。**值不值得用？** 如果你在找一款能快速扫描常见漏洞（XSS、SQLi、SSRF等）、自动生成PoC并给出修复建议的工具，Strix值得一试。但它不是Burp Suite或Nessus...</description>
-        <pubDate>Sat, 04 Jul 2026 11:51:29 +0800</pubDate>
     </item>
     </channel>
 </rss>
